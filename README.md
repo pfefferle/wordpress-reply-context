@@ -2,4 +2,4 @@
 
 Beta!!!
 
-a first attempt not far away from beeing final!
+a first attempt... far away from beeing final! It works but it looks really ugly :)
